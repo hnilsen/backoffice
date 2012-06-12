@@ -1,0 +1,82 @@
+{
+    "Data": [
+        {
+            "CostsActivity": null,
+            "CreatedByPerson": {
+                "Country": {
+                    "CountryId": "fff94ac3-d643-43c6-b3d6-b7f4b16f6311",
+                    "CountryName": "Norway"
+                },
+                "FirstName": "Rune",
+                "Initials": "<NN>",
+                "LastName": "Hatten",
+                "PersonId": "407d13d5-d75d-4a19-843e-7d515b32b61f"
+            },
+            "CreatedDate": "\/Date(1338898303630+0200)\/",
+            "IsSentToBaan": false,
+            "SalesActivity": null,
+            "ServiceEngineer": {
+                "Person": {
+                    "Country": {
+                        "CountryId": "fff94ac3-d643-43c6-b3d6-b7f4b16f6311",
+                        "CountryName": "Norway"
+                    },
+                    "FirstName": "Rune",
+                    "Initials": "<NN>",
+                    "LastName": "Hatten",
+                    "PersonId": "407d13d5-d75d-4a19-843e-7d515b32b61f"
+                },
+                "ServiceEngineerId": "92efad8c-d2bd-4ce4-9a8a-163a8fe21f64"
+            },
+            "UsingHomeBaseCountry": {
+                "CountryId": "fff94ac3-d643-43c6-b3d6-b7f4b16f6311",
+                "CountryName": "Norway"
+            },
+            "UsingWorkOrderType": {
+                "Description": "Field Service",
+                "WorkOrderTypeCode": "F1;F2;F5",
+                "WorkOrderTypeId": "af978256-82dd-496f-896e-0e1d11b44254",
+                "WorkOrderTypeName": "Field Service"
+            },
+            "WebTimesheetId": "e2bc8461-00dd-41fa-86f5-c1a00ac790ff",
+            "WebTimesheetSkillLevel": null,
+            "WorkOrder": {
+                "Activities": [
+                    {
+                        "ActivityId": "7b2a6788-a92a-400f-b83a-cdd280d27520",
+                        "ActivityLineNumber": null,
+                        "ActivityName": "MF Fanafjord"
+                    }
+                ],
+                "Customer": {
+                    "Contacts": [],
+                    "CustomerId": "16014630-c309-4e28-ad43-343440e70b41",
+                    "CustomerName": "FJORD 1",
+                    "CustomerNumber": "55718"
+                },
+                "Description": "25 000 timer service motor nr 18004 GG1 motor type KVGS-12G4 Kontakt person Øystein Osborg maskinsjef ombord\u000dDet må videre utføres skoping av staker. Det skal skrives rapport på utført arbeid samt data fra igangkjøring etter utført service. \u000dDeler inkl. byttedeksel og syl foringer organiseres av Tomas Bareksten",
+                "Location": {
+                    "Country": {
+                        "CountryId": "fff94ac3-d643-43c6-b3d6-b7f4b16f6311",
+                        "CountryName": "Norway"
+                    },
+                    "LocationId": "71d91ac3-0839-4253-b8db-e3034212a16c",
+                    "LocationName": "MF Fanafjord, Halhjem Fergekai"
+                },
+                "OrderDate": "\/Date(1297119600000+0100)\/",
+                "OrderNumber": "305332",
+                "StatusNumber": 20,
+                "WorkOrderId": "38f1ab05-da6e-413d-ab88-0eb00f651c45",
+                "WorkOrderName": "MF Fanafjord",
+                "WorkOrderType": {
+                    "Description": "Field Service",
+                    "WorkOrderTypeCode": "F1;F2;F5",
+                    "WorkOrderTypeId": "af978256-82dd-496f-896e-0e1d11b44254",
+                    "WorkOrderTypeName": "Field Service"
+                }
+            }
+        }
+    ],
+    "ErrorMessage": "",
+    "IsSuccess": true
+}
